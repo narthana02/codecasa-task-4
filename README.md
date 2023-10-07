@@ -1,5 +1,11 @@
 # codecasa-task-4
 
+# BOOK RECOMENDATION SYTEM 
+
+# DATASET
+
+https://www.kaggle.com/code/dushyantnagar7806/book-recommender-system-project/input
+
 # Key project highlights:
 
 Data Preprocessing: I meticulously prepared and cleaned the dataset, ensuring its readiness for analysis.
